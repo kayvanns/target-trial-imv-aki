@@ -1,0 +1,2 @@
+n_adults,n_adults_with_any_treatment_entry,n_any_invasive,n_inv_at_or_before_admit,n_inv_0_1h,n_inv_1_24h,n_inv_24_72h,n_inv_after_72h,n_supporting_only_no_invasive,n_any_trach,n_trach_within_1h_of_admit,n_any_niv,n_niv_never_invasive
+14799,12874,3264,46,1007,1795,271,145,18,171,19,1199,818

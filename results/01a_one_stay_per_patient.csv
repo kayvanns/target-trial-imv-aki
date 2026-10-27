@@ -1,0 +1,2 @@
+n_stays,n_patients,n_selected_stays,n_selected_first_icu_of_hosp,n_selected_icu_readmission,n_selected_missing_year,n_patients_same_year_ambiguous
+18174,15604,15604,14810,794,0,790

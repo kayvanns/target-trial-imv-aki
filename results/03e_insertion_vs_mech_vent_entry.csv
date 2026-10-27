@@ -1,0 +1,5 @@
+first_invasive_group,n_ventilated,n_with_insertion_entry,n_insertion_at_or_before_admit,n_with_both,n_mv_within_1h_of_insertion,n_mv_charted_gt1h_after_insertion,n_mv_charted_gt1h_before_insertion,lag_minutes_quartiles
+a: first invasive <= 1 h,1053,49,2,49,39,0,10,"[-24095,0,0,0,17]"
+b: 1-24 h,1795,222,0,214,189,2,23,"[-12731,0,0,0,3077]"
+c: 24-72 h,271,37,0,36,29,1,6,"[-29050,0,0,0,4290]"
+d: > 72 h,145,19,0,19,16,0,3,"[-8156,0,0,0,0]"

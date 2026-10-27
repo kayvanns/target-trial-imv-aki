@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials - never commit
+*.json
+!.vscode/*.json
+.env
+
+# Patient-level data - never commit (PhysioNet data use agreement)
+data/
+*.parquet
+*.feather
+*.xlsx
+exports/
+
+# OS / editor
+.DS_Store

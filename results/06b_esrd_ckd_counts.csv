@@ -1,0 +1,2 @@
+n_patients,n_no_apache_record,n_esrd_pasthistory,n_esrd_apache,n_esrd_diagnosis,n_esrd_treatment,n_esrd_any,n_esrd_1_source,n_esrd_2_sources,n_esrd_3plus_sources,n_esrd_only_pasthistory,n_esrd_only_apache,n_esrd_only_diagnosis,n_esrd_only_treatment,n_ckd_not_esrd,n_ckd_severe_not_esrd,n_kidney_transplant_any,n_transplant_and_esrd,n_transplant_not_esrd,n_after_esrd_exclusion,n_after_esrd_and_transplant,n_after_esrd_transplant_severe_ckd
+11994,297,764,671,525,206,844,100,289,455,26,0,62,12,1563,38,119,40,79,11150,11071,11035

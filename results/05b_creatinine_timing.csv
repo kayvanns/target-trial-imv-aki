@@ -1,0 +1,2 @@
+n_patients,n_with_pre_icu_cr,n_with_cr_24h_before_to_6h_after,n_with_cr_first_24h,n_no_icu_cr_first_7d,pct_icu_days_with_cr_first_7d,icu_days_first_7d_quartiles,n_icu_discharge_before_day7,n_of_those_with_post_icu_cr_by_day7,n_with_any_post_icu_cr,n_results_nonmissing,n_values_lt_0_2,n_values_15_to_20,n_values_gt_20
+11994,9320,11005,11077,798,83.9,"[1,2,2,4,7]",10763,6202,6938,106782,126,75,21

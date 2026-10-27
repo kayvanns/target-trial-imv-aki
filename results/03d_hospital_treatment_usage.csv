@@ -1,0 +1,6 @@
+tx_usage_group,n_hospitals,n_adults,n_adults_with_tx,n_invasive,pct_invasive_of_adults
+a: 0% (never uses table),14,815,0,0,0.0
+b: 1-49%,6,200,40,5,2.5
+c: 50-79%,21,1790,1215,317,17.7
+d: 80-94%,20,2609,2274,923,35.4
+e: 95-100%,142,9385,9345,2019,21.5

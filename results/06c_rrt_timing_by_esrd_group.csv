@@ -1,0 +1,5 @@
+esrd_group,n_patients,n_any_dialysis,n_dialysis_at_or_before_admit,n_dialysis_0_24h,n_dialysis_24_72h,n_dialysis_72h_7d,n_dialysis_after_7d,n_dialysis_catheter,n_catheter_no_dialysis_signal,first_creat_quartiles,n_first_creat_ge_4
+"a: ESRD, 2+ sources",744,517,9,440,52,12,4,34,1,"[0.4,3.65,5.3,7.76,19.1]",520
+"b: ESRD, diagnosis only",62,39,1,23,9,4,2,5,0,"[0.93,2.74,3.9,5.86,16.39]",31
+"c: ESRD, other single source",38,22,0,16,3,0,3,2,0,"[0.72,2.68,4.4,5.7,13.8]",22
+d: not ESRD,11150,506,0,275,129,70,32,160,13,"[0.2,0.9,1.4,2.27,19.9]",956

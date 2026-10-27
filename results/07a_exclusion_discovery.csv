@@ -1,0 +1,46 @@
+source,item,n_patients,n_by_6h
+care plan,Airway | Not intubated/normal airway,3944,3761
+care plan,Care Limitation | Full therapy,3662,3456
+care plan,Care Limitation | Do not resuscitate,693,380
+care plan,Volume Status | Hypovolemic - actively resuscitate,440,383
+care plan,Airway | Intubated/oral ETT,437,196
+care plan,Care Limitation | No intubation,228,111
+care plan,Care Limitation | No CPR,211,88
+care plan,Care Limitation | No cardioversion,117,44
+care plan,Care Limitation | Comfort measures only,83,8
+care plan,Airway | Intubated/trach-chronic,69,57
+care plan,Care Limitation | No vasopressors/inotropes,48,13
+care plan,Airway | Intubated/trach-acute,36,5
+care plan,Airway | Not intubated/partial airway obstruction,29,20
+care plan,Care Limitation | No augmentation of care,24,3
+care plan,Airway | Intubated/oral ETT - difficult,7,2
+care plan,Care Limitation | No blood draws,5,1
+care plan,Care Limitation | No blood products,5,2
+care plan,Airway | Intubated/nasal ETT,5,2
+diagnosis,pulmonary|disorders of the airways|COPD,127,104
+diagnosis,pulmonary|disorders of the airways|asthma / bronchospasm,49,40
+diagnosis,pulmonary|disorders of the airways|acute COPD exacerbation,42,34
+diagnosis,pulmonary|respiratory failure|chronic respiratory failure,31,20
+diagnosis,pulmonary|disorders of the airways|COPD|moderate,16,11
+diagnosis,pulmonary|disorders of the airways|COPD|severe,14,9
+diagnosis,pulmonary|disorders of the airways|COPD|no limitations,5,5
+diagnosis,pulmonary|respiratory failure|acute on chronic respiratory failure not due to CHF,5,3
+diagnosis,pulmonary|disorders of the airways|acute COPD exacerbation|with baseline hypercarbia,5,4
+diagnosis,pulmonary|disorders of the airways|acute COPD exacerbation|with baseline hypoxemia,5,2
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Asthma/asthma,271,264
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/COPD/COPD  - moderate,246,238
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/COPD/COPD  - no limitations,146,144
+past history,notes/Progress Notes/Past History/Organ Systems/Hematology/Oncology (R)/Cancer/Cancer-Primary Site/lung,95,93
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Home Oxygen/home oxygen,85,79
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/COPD/COPD  - severe,79,78
+past history,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/Pulmonary Embolism/pulmonary embolism - date unknown,67,64
+past history,notes/Progress Notes/Past History/Organ Systems/Hematology/Oncology (R)/Cancer/Metastases/lung,32,31
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Respiratory Failure/respiratory failure - within 6 months,30,29
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Restrictive Disease/restrictive pulmonary disease,21,21
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Respiratory Failure/respiratory failure - date unknown,21,21
+past history,notes/Progress Notes/Past History/Organ Systems/Hematology/Oncology (R)/Cancer Therapy/Radiation Therapy within past 6 months/lung,13,13
+past history,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/Pulmonary Embolism/pulmonary embolism - remote,10,10
+past history,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/Pulmonary Embolism/pulmonary embolism - within 6 months,9,9
+past history,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/Pulmonary Embolism/pulmonary embolism - within 2 years,9,8
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Respiratory Failure/multiple/multiple,8,7
+past history,notes/Progress Notes/Past History/Organ Systems/Pulmonary/Sarcoidosis/sarcoidosis,6,6

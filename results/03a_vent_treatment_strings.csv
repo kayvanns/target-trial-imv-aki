@@ -1,0 +1,44 @@
+treatmentstring,n_patients
+pulmonary|ventilation and oxygenation|mechanical ventilation,2821
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,1227
+pulmonary|ventilation and oxygenation|non-invasive ventilation,850
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%),718
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%),660
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy,467
+pulmonary|ventilation and oxygenation|ventilator weaning,426
+pulmonary|ventilation and oxygenation|tracheal suctioning,385
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%),375
+pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|insertion,324
+pulmonary|radiologic procedures / bronchoscopy|endotracheal tube,301
+pulmonary|radiologic procedures / bronchoscopy|endotracheal tube removal,294
+pulmonary|ventilation and oxygenation|mechanical ventilation|assist controlled,261
+pulmonary|ventilation and oxygenation|non-invasive ventilation|face mask,193
+pulmonary|ventilation and oxygenation|mechanical ventilation|volume controlled,175
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|>90%,157
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|5-10 cm H2O,156
+pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume 6-10 ml/kg,151
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|40-50%,128
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,115
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|face mask,105
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|reduce FIO2 as tolerated,104
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|30-40%,94
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|50-60%,83
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|reduce FIO2 as tolerated,81
+pulmonary|surgery / incision and drainage of thorax|tracheostomy,81
+pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation,74
+surgery|pulmonary therapies|mechanical ventilation,69
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|face mask,62
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for ventilatory support,57
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|non-rebreather mask,56
+pulmonary|ventilation and oxygenation|ventilator weaning|active,55
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|face mask,47
+pulmonary|radiologic procedures / bronchoscopy|reintubation,45
+pulmonary|ventilation and oxygenation|mechanical ventilation|pressure support,37
+pulmonary|ventilation and oxygenation|mechanical ventilation|pressure controlled,33
+pulmonary|radiologic procedures / bronchoscopy|pulmonary ventilation perfusion study,33
+pulmonary|ventilation and oxygenation|mechanical ventilation|synchronized intermittent,29
+pulmonary|ventilation and oxygenation|ventilator weaning|slow,25
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|trach collar,24
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|10-15 cm H2O,22
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|trach collar,22
+pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation|face mask,21

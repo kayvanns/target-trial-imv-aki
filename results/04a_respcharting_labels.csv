@@ -1,0 +1,34 @@
+respcharttypecat,respchartvaluelabel,n_vent_patients,n_notvent_patients,pct_of_ventilated,pct_of_not_ventilated,n_vent_total,n_notvent_total
+respFlowSettings,FiO2,2418,2765,82.2,30.5,2942,9052
+respFlowPtVentData,RR (patient),1506,3066,51.2,33.9,2942,9052
+respFlowSettings,LPM O2,1038,2387,35.3,26.4,2942,9052
+respFlowSettings,PEEP,2386,773,81.1,8.5,2942,9052
+respFlowSettings,TV/kg IBW,2234,479,75.9,5.3,2942,9052
+respFlowPtVentData,SaO2,732,1946,24.9,21.5,2942,9052
+respFlowSettings,Vent Rate,2190,392,74.4,4.3,2942,9052
+respFlowSettings,Tidal Volume (set),2178,320,74.0,3.5,2942,9052
+respFlowPtVentData,Total RR,1534,562,52.1,6.2,2942,9052
+respFlowPtVentData,Mean Airway Pressure,1541,271,52.4,3.0,2942,9052
+respFlowPtVentData,Exhaled TV (patient),1329,253,45.2,2.8,2942,9052
+respFlowPtVentData,Exhaled MV,1310,263,44.5,2.9,2942,9052
+respFlowPtVentData,Peak Insp. Pressure,1225,249,41.6,2.8,2942,9052
+respFlowPtVentData,Plateau Pressure,1249,207,42.5,2.3,2942,9052
+respFlowSettings,Pressure Support,1225,202,41.6,2.2,2942,9052
+respFlowCareData,Head of Bed Elevation,533,577,18.1,6.4,2942,9052
+respFlowPtVentData,Humidifier Temp,704,175,23.9,1.9,2942,9052
+respFlowPtVentData,Exhaled TV (machine),668,183,22.7,2.0,2942,9052
+respFlowPtVentData,Compliance,713,91,24.2,1.0,2942,9052
+respFlowSettings,Flow Sensitivity,516,88,17.5,1.0,2942,9052
+respFlowSettings,Peak Flow,254,122,8.6,1.3,2942,9052
+respFlowCareData,O2 Device,145,189,4.9,2.1,2942,9052
+respFlowSettings,PEEP/CPAP,215,44,7.3,0.5,2942,9052
+respFlowSettings,CPAP,125,66,4.2,0.7,2942,9052
+respFlowCareData,Head of Bed Elevated,174,6,5.9,0.1,2942,9052
+respFlowSettings,Pressure to Trigger PS,114,65,3.9,0.7,2942,9052
+respFlowSettings,Pressure Control,131,38,4.5,0.4,2942,9052
+respFlowCareData,FIO2 (%),110,33,3.7,0.4,2942,9052
+respFlowCareData,Resp Rate Total,100,10,3.4,0.1,2942,9052
+respFlowCareData,Mean Airway Pressure,100,10,3.4,0.1,2942,9052
+respFlowCareData,Exhaled Vt,100,9,3.4,0.1,2942,9052
+respFlowCareData,Measured Ve,99,10,3.4,0.1,2942,9052
+respFlowCareData,Plateau Pressure,99,7,3.4,0.1,2942,9052

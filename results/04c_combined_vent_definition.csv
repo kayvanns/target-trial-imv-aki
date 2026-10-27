@@ -1,0 +1,2 @@
+n_adults_all_hospitals,n_primary_cohort,n_primary_hospitals,n_imv,n_imv_added_from_charting,n_ambiguous,n_start_at_or_before_admit,n_start_0_1h,n_start_1_24h,n_start_24_72h,n_start_after_72h,n_trach_within_1h
+14799,11994,162,3273,331,82,864,850,1176,271,112,19

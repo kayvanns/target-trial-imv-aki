@@ -1,0 +1,13 @@
+step,n_patients,n_with_asthma
+01: ESRD / chronic dialysis,844,
+02: severe CKD (usual creatinine > 4),38,
+03: CKD without recorded usual creatinine,1038,
+04: no creatinine near time zero,801,
+05: AKI at time zero (stage >= 1),4583,
+06: ventilated on arrival,604,60
+07: ambiguous ventilation status,26,1
+08: kidney transplant,15,0
+09: chronic tracheostomy,69,5
+10: DNR / care limitation at time zero,409,24
+11: COPD / chronic lung disease,481,71
+12: ELIGIBLE (Option A),3086,181

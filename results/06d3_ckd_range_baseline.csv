@@ -1,0 +1,25 @@
+range_group,method,n_patients,n_more_than_one_range,n_no_measured_value,min_measured_quartiles,n_measured_above_range,n_stage0_at_t0,n_stage1_at_t0,n_stage2_at_t0,n_stage3_at_t0,n_stage_unknown
+diagnosis only,a: v2 (lowest measured up to time zero),316,0,42,"[0.5,1.34,2.0,3.09,13.8]",0,234,22,4,14,42
+diagnosis only,b: range midpoint,316,0,42,"[0.5,1.34,2.0,3.09,13.8]",0,234,22,4,14,42
+diagnosis only,c: range lower bound,316,0,42,"[0.5,1.34,2.0,3.09,13.8]",0,234,22,4,14,42
+not currently dialyzed (no range),a: v2 (lowest measured up to time zero),235,0,18,"[0.43,1.6,2.22,3.66,10.6]",0,178,17,3,16,21
+not currently dialyzed (no range),b: range midpoint,235,0,18,"[0.43,1.6,2.22,3.66,10.6]",0,178,17,3,16,21
+not currently dialyzed (no range),c: range lower bound,235,0,18,"[0.43,1.6,2.22,3.66,10.6]",0,178,17,3,16,21
+range 1-2,a: v2 (lowest measured up to time zero),312,0,40,"[0.5,1.33,1.67,2.47,9.9]",102,233,25,1,14,39
+range 1-2,b: range midpoint,312,0,40,"[0.5,1.33,1.67,2.47,9.9]",102,161,60,20,32,39
+range 1-2,c: range lower bound,312,0,40,"[0.5,1.33,1.67,2.47,9.9]",102,78,74,69,52,39
+range 2-3,a: v2 (lowest measured up to time zero),122,0,7,"[0.9,2.0,2.48,3.3,11.15]",32,98,8,3,5,8
+range 2-3,b: range midpoint,122,0,7,"[0.9,2.0,2.48,3.3,11.15]",32,83,13,0,18,8
+range 2-3,c: range lower bound,122,0,7,"[0.9,2.0,2.48,3.3,11.15]",32,73,23,0,18,8
+range 3-4,a: v2 (lowest measured up to time zero),53,2,3,"[0.65,2.11,3.0,3.96,17.83]",11,37,5,3,5,3
+range 3-4,b: range midpoint,53,2,3,"[0.65,2.11,3.0,3.96,17.83]",11,28,9,0,13,3
+range 3-4,c: range lower bound,53,2,3,"[0.65,2.11,3.0,3.96,17.83]",11,28,9,0,13,3
+range 4-5,a: v2 (lowest measured up to time zero),19,0,2,"[1.46,2.72,3.87,4.4,7.77]",2,14,0,0,4,1
+range 4-5,b: range midpoint,19,0,2,"[1.46,2.72,3.87,4.4,7.77]",2,13,0,0,5,1
+range 4-5,c: range lower bound,19,0,2,"[1.46,2.72,3.87,4.4,7.77]",2,11,0,0,7,1
+range > 5,a: v2 (lowest measured up to time zero),19,1,2,"[0.9,4.75,6.33,7.07,12.64]",0,16,0,0,1,2
+range > 5,b: range midpoint,19,1,2,"[0.9,4.75,6.33,7.07,12.64]",0,6,1,0,10,2
+range > 5,c: range lower bound,19,1,2,"[0.9,4.75,6.33,7.07,12.64]",0,4,1,0,12,2
+range unknown,a: v2 (lowest measured up to time zero),487,0,41,"[0.2,1.35,2.0,3.04,12.77]",0,375,35,5,31,41
+range unknown,b: range midpoint,487,0,41,"[0.2,1.35,2.0,3.04,12.77]",0,375,35,5,31,41
+range unknown,c: range lower bound,487,0,41,"[0.2,1.35,2.0,3.04,12.77]",0,375,35,5,31,41

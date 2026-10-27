@@ -1,0 +1,7 @@
+method,ckd_group,n_patients,n_baseline_measured,n_baseline_mdrd,n_baseline_missing,baseline_quartiles,n_no_t0_creatinine,n_stage0_at_t0,n_stage1_at_t0,n_stage2_at_t0,n_stage3_at_t0,n_stage_unknown
+"1: MIMIC as written (whole stay, 186)",a: no CKD,9587,6731,2856,0,"[0.2,0.6,0.78136174373354694,0.93,1.2754608643267642]",751,3407,1879,1843,1707,751
+"1: MIMIC as written (whole stay, 186)",b: CKD (not ESRD),1563,1544,0,19,"[0.2,0.91,1.32,2.05,15.89]",157,656,258,194,298,157
+"2: adapted, up to time zero (175)",a: no CKD,9587,3954,5633,0,"[0.2,0.74275859803612321,0.83,0.98208157604437873,1.253302378136943]",751,4417,1427,1483,1509,751
+"2: adapted, up to time zero (175)",b: CKD (not ESRD),1563,1408,0,155,"[0.2,1.43,2.1,3.16,17.83]",157,1185,112,19,90,157
+"3: adapted, up to time zero (186)",a: no CKD,9587,3954,5633,0,"[0.2,0.77643849185588054,0.85240364696986626,1.0255547667123259,1.3212886801696637]",751,4630,1431,1413,1362,751
+"3: adapted, up to time zero (186)",b: CKD (not ESRD),1563,1408,0,155,"[0.2,1.43,2.1,3.16,17.83]",157,1185,112,19,90,157

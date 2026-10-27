@@ -1,0 +1,27 @@
+day,location,group_24h,n_patient_days,n_days_with_creat,pct_days_with_creat
+1,ICU,intubated by 24 h,375,362,96.5
+1,ICU,not intubated by 24 h,3598,3320,92.3
+2,ICU,intubated by 24 h,336,309,92.0
+2,ICU,not intubated by 24 h,2529,2154,85.2
+2,ward,intubated by 24 h,9,5,55.6
+2,ward,not intubated by 24 h,958,551,57.5
+3,ICU,intubated by 24 h,283,257,90.8
+3,ICU,not intubated by 24 h,1329,1120,84.3
+3,ward,intubated by 24 h,32,17,53.1
+3,ward,not intubated by 24 h,1933,1122,58.0
+4,ICU,intubated by 24 h,229,215,93.9
+4,ICU,not intubated by 24 h,702,588,83.8
+4,ward,intubated by 24 h,71,35,49.3
+4,ward,not intubated by 24 h,2162,1160,53.7
+5,ICU,intubated by 24 h,187,168,89.8
+5,ICU,not intubated by 24 h,395,338,85.6
+5,ward,intubated by 24 h,102,49,48.0
+5,ward,not intubated by 24 h,1977,1002,50.7
+6,ICU,intubated by 24 h,156,137,87.8
+6,ICU,not intubated by 24 h,261,218,83.5
+6,ward,intubated by 24 h,111,55,49.5
+6,ward,not intubated by 24 h,1688,818,48.5
+7,ICU,intubated by 24 h,127,110,86.6
+7,ICU,not intubated by 24 h,179,160,89.4
+7,ward,intubated by 24 h,116,56,48.3
+7,ward,not intubated by 24 h,1387,645,46.5

@@ -1,0 +1,6 @@
+daily_coverage_band,n_hospitals,n_hosp_under_20_patients,n_patients,pct_cr_24h_before_to_6h_after,pct_cr_first_24h,pct_icu_days_with_cr
+a: < 50%,9,8,73,83.6,78.1,27.7
+b: 50-69%,8,5,169,84.0,74.0,65.7
+c: 70-84%,88,14,7450,91.2,91.1,82.2
+d: 85-94%,46,7,4265,92.9,95.2,88.0
+e: 95-100%,11,11,37,100.0,100.0,97.5
