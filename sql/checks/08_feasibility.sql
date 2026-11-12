@@ -182,3 +182,68 @@ LEFT JOIN creat_days cd
 WHERE pd.location != 'gone'
 GROUP BY pd.day, pd.location, group_24h
 ORDER BY pd.day, pd.location, group_24h;
+
+-- @query: 08d_followup_gaps
+-- ICU vs ward time and gaps without creatinine during follow-up, by intubation group (D19)
+WITH cohort AS (
+  SELECT
+    patientunitstayid,
+    (imv_status = 'imv' AND imv_start <= 1440)          AS intubated_by_24h,
+    unitdischargeoffset,
+    hospitaldischargeoffset,
+    LOWER(hospitaldischargestatus) = 'expired'          AS died_in_hospital,
+    LEAST(10080, hospitaldischargeoffset)               AS end_fu
+  FROM `evocative-ethos-471602-r3.base.eicu_tte_cohort`
+  WHERE eligible_b
+),
+creat AS (
+  SELECT DISTINCT l.patientunitstayid, l.labresultoffset AS t
+  FROM `physionet-data.eicu_crd.lab` l
+  JOIN cohort c USING (patientunitstayid)
+  WHERE l.labname = 'creatinine'
+    AND l.labresult BETWEEN 0.2 AND 20
+    AND l.labresultoffset BETWEEN 0 AND c.end_fu
+),
+points AS (
+  SELECT patientunitstayid, t FROM creat
+  UNION ALL SELECT patientunitstayid, 0      FROM cohort
+  UNION ALL SELECT patientunitstayid, end_fu FROM cohort
+),
+gaps AS (
+  SELECT patientunitstayid,
+         MAX(t - prev_t) AS longest_gap
+  FROM (
+    SELECT patientunitstayid, t,
+           LAG(t) OVER (PARTITION BY patientunitstayid ORDER BY t) AS prev_t
+    FROM points
+  )
+  GROUP BY patientunitstayid
+),
+per_patient AS (
+  SELECT
+    c.*,
+    GREATEST(0, c.end_fu - c.unitdischargeoffset)       AS ward_minutes,
+    COUNT(cr.t)                                         AS n_creat,
+    c.end_fu - MAX(cr.t)                                AS minutes_last_creat_to_end,
+    g.longest_gap
+  FROM cohort c
+  LEFT JOIN creat cr USING (patientunitstayid)
+  JOIN gaps g USING (patientunitstayid)
+  GROUP BY c.patientunitstayid, c.intubated_by_24h, c.unitdischargeoffset,
+           c.hospitaldischargeoffset, c.died_in_hospital, c.end_fu, g.longest_gap
+)
+SELECT
+  IF(intubated_by_24h, 'intubated by 24 h', 'not intubated by 24 h')  AS group_24h,
+  COUNT(*)                                                    AS n_patients,
+  COUNTIF(ward_minutes > 0)                                   AS n_any_ward_time,
+  APPROX_QUANTILES(ROUND(ward_minutes / 60), 4)               AS ward_hours_quartiles,
+  COUNTIF(hospitaldischargeoffset < 10080 AND NOT died_in_hospital) AS n_discharged_alive_before_7d,
+  COUNTIF(hospitaldischargeoffset < 10080 AND died_in_hospital)     AS n_died_before_7d,
+  APPROX_QUANTILES(n_creat, 4)                                AS n_creat_quartiles,
+  APPROX_QUANTILES(ROUND(longest_gap / 60), 4)                AS longest_gap_hours_quartiles,
+  COUNTIF(longest_gap > 2880)                                 AS n_gap_over_48h,
+  COUNTIF(longest_gap > 4320)                                 AS n_gap_over_72h,
+  APPROX_QUANTILES(ROUND(minutes_last_creat_to_end / 60), 4)  AS hours_last_creat_to_end_quartiles
+FROM per_patient
+GROUP BY group_24h
+ORDER BY group_24h;
