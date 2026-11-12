@@ -1,0 +1,4 @@
+baseline_source,n_patients,baseline_quartiles
+measured (lowest up to time zero),3462,[0.2  0.61 0.78 0.91 1.09]
+expected normal (MDRD),954,[0.73497348 0.95382093 0.98696039 1.02647211 1.25330238]
+CKD: recorded range midpoint,274,[1.5 1.5 1.5 2.5 3.5]

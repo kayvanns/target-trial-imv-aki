@@ -1,56 +1,37 @@
 source,item,n_patients,n_entry_at_or_before_admit,median_offset_min
 apacheapsvar,dialysis = 0,11026,,
+apacheapsvar,dialysis = 1,671,,
 diagnosis,"renal|disorder of kidney|acute renal failure  [584.9, N17.9]",2418,21,1926
 diagnosis,"renal|disorder of urinary tract / renal system infection|urinary tract infection  [599.0, N39.0]",1218,18,748
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure - hemodialysis,686,62,98
-apacheapsvar,dialysis = 1,671,,
-treatment,renal|dialysis|hemodialysis,619,5,3954
 diagnosis,"renal|disorder of kidney|ESRD (end stage renal disease)  [585.6, N18.6]",506,8,1912
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - baseline creatinine unknown,501,53,63
 diagnosis,"renal|disorder of urinary tract / renal system infection|lower urinary tract infection  [595.9, N30.9]",458,6,514
 diagnosis,"renal|disorder of acid base|metabolic acidosis|lactic acidosis  [276.2, E87.2]",392,8,1659
 diagnosis,"renal|disorder of kidney|chronic kidney disease  [585.9, N18.9]",390,6,2066
 diagnosis,"cardiovascular|shock / hypotension|sepsis|sepsis with single organ dysfunction- acute renal failure  [038.9, 584.9, R65.20, N17]",330,8,1288
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 1-2,321,31,151
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure- not currently dialyzed,284,30,87
 diagnosis,"renal|disorder of acid base|metabolic acidosis  [276.2, E87.2]",282,4,2585
 diagnosis,"renal|disorder of kidney|acute renal failure|due to sepsis  [584.9, N17.9]",276,7,3117
 diagnosis,"renal|electrolyte imbalance|hypokalemia  [276.8, E87.6]",274,6,3006
-treatment,renal|dialysis|C V V H D,243,0,5106
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Chronic Stone Disease/chronic kidney stones,224,20,85
 diagnosis,"renal|electrolyte imbalance|hyponatremia  [276.1, E87.0, E87.1]",202,3,1457
 diagnosis,"renal|electrolyte imbalance|hypomagnesemia  [275.2, E83.42]",188,5,2827
 diagnosis,"renal|electrolyte imbalance|hyperkalemia  [276.7, E87.5]",185,3,1003
 diagnosis,"renal|disorder of kidney|chronic renal insufficiency  [585.9, N18.9]",169,3,1372
 diagnosis,"renal|disorder of kidney|chronic kidney disease|Stage 3 (GFR 30-59)  [585.3, N18.3]",164,3,2625
-treatment,renal|dialysis|hemodialysis|for chronic renal failure,161,2,2396
 diagnosis,"infectious diseases|GU infections|acute pyelonephritis  [590.10, N10]",158,2,902
 diagnosis,"renal|disorder of kidney|acute renal failure|due to hypovolemia/decreased circulating volume  [584.9, N17.9]",131,3,2096
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 2-3,127,12,83
 diagnosis,"renal|disorder of urinary tract / renal system infection|obstructive uropathy  [586, N19]",119,0,847
 diagnosis,"renal|fluid imbalance|dehydration  [276.51, E86.0]",118,1,580
 diagnosis,"renal|disorder of urinary tract / renal system infection|upper urinary tract infection  [590.10, N10]",116,0,288
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/s/p Renal Transplant/s/p renal transplant,113,7,78
 diagnosis,"renal|disorder of urinary tract / renal system infection|nephrolithiasis  [592.0, N20.0]",109,3,772
-treatment,renal|dialysis|insertion of venous catheter for hemodialysis,104,0,2874
 diagnosis,"renal|electrolyte imbalance|hyperkalemia|severe (> 6.1 meq/dl)  [276.7, E87.5]",95,3,1029
 diagnosis,"renal|disorder of kidney|acute renal failure|acute tubular necrosis  [584.5, N17.0]",94,3,4466
-treatment,renal|dialysis|hemodialysis|for acute renal failure,92,0,4741
 diagnosis,"renal|electrolyte imbalance|hypernatremia  [276.0, E87.0]",85,1,2969
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure - peritoneal dialysis,80,2,65
 diagnosis,"renal|disorder of kidney|acute renal failure|due to rhabdomyolysis  [584.9, N17.9]",79,1,1973
-treatment,renal|dialysis|C V V H,73,0,5496
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Neurogenic Bladder/neurogenic bladder,73,4,66
 diagnosis,"renal|electrolyte imbalance|hypocalcemia  [275.41, E83.51]",71,0,2845
 diagnosis,"renal|electrolyte imbalance|hypophosphatemia  [275.3, E83.30]",71,0,5134
 diagnosis,"renal|disorder of acid base|metabolic acidosis|severe  [276.2, E87.2]",70,2,1849
 diagnosis,"renal|abnormality of urine quantity or quality|hematuria  [599.7, R31.9]",66,2,772
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Hematology/Oncology (R)/Cancer/Cancer-Primary Site/kidney,66,3,76
 diagnosis,"renal|disorder of kidney|chronic kidney disease|Stage 4 (GFR 15-29)  [585.4, N18.4]",65,1,1475
 diagnosis,"infectious diseases|systemic/other infections|sepsis|sepsis with single organ dysfunction- acute renal failure  [038.9, 584.9, R65.20, N17]",61,0,787
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 3-4,57,1,60
-treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis,56,0,5523
-treatment,renal|dialysis|hemodialysis|emergent,55,0,1143
 diagnosis,renal|electrolyte imbalance|hyponatremia|moderate (125 - 135 meq/dl)  [E87.1],54,2,839
 diagnosis,"renal|disorder of kidney|chronic kidney disease|Stage 2 (GFR 60-89)  [585.2, N18.2]",51,0,1624
 diagnosis,"renal|electrolyte imbalance|hypokalemia|moderate ( 2.8 - 3.5 meq/dl)  [276.8, E87.6]",45,0,2601
@@ -67,31 +48,23 @@ diagnosis,"renal|disorder of urinary tract / renal system infection|lower urinar
 diagnosis,"renal|disorder of acid base|respiratory acidosis  [276.2, E87.2]",31,0,2281
 diagnosis,"renal|electrolyte imbalance|hypernatremia|moderate (146 - 155 meq/dl)  [276.0, E87.0]",31,0,9806
 diagnosis,"infectious diseases|GU infections|acute pyelonephritis|with renal calculi  [590.10, N10]",31,1,1051
-treatment,renal|dialysis|insertion of venous catheter for hemodialysis|percutaneous catheter,29,0,6596
 diagnosis,"renal|fluid imbalance|hypervolemia  [276.6, E87.70]",29,0,4068
 diagnosis,"renal|electrolyte imbalance|hypochloremia  [276.9, E87.8]",29,1,729
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine > 5,29,2,39
-treatment,renal|dialysis|peritoneal dialysis,28,0,897
-treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis|percutaneous catheter,28,0,4642
 diagnosis,renal|disorder of kidney|acute renal failure|suspected  [],28,0,1839
 diagnosis,"renal|electrolyte imbalance|hypernatremia|severe (> 155 meq/dl)  [276.0, E87.0]",28,1,1288
 diagnosis,"renal|disorder of acid base|metabolic acidosis|moderate  [276.2, E87.2]",26,1,3023
 diagnosis,"renal|disorder of kidney|acute renal failure|etiology unknown  [584.9, N17.9]",23,1,1991
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Gastrointestinal (R)/s/p Liver Transplant/s/p liver transplant,23,2,377
 diagnosis,"gastrointestinal|hepatic disease|hepatorenal syndrome  [572.4, K76.7]",21,0,1566
 diagnosis,renal|post GU surgery|s/p procedure for nephrolithiasis  [],21,0,268
 diagnosis,"renal|disorder of acid base|metabolic acidosis|ketoacidosis/diabetic  [276.2, E87.2]",21,1,1068
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 4-5,21,1,50
 diagnosis,transplant|s/p kidney transplant|s/p kidney transplant  [996.81],20,0,2292
 diagnosis,"renal|electrolyte imbalance|hypokalemia|severe ( < 2.8 meq/dl)  [276.8, E87.6]",20,0,1456
-treatment,renal|dialysis|peritoneal dialysis|for chronic renal failure,18,1,1009
 diagnosis,"renal|electrolyte imbalance|hyperphosphatemia  [275.3, E83.30]",18,0,4230
 diagnosis,"endocrine|adrenal disorders|adrenal insufficiency  [255.4, E27.40]",18,1,2299
 diagnosis,"renal|disorder of acid base|metabolic acidosis|normal anion gap  [276.2, E87.2]",18,0,3645
 diagnosis,"hematology|bleeding and red blood cell disorders|anemia|anemia of renal disease  [285.21, D63.1]",18,0,2415
 diagnosis,renal|post GU surgery|s/p cystectomy  [],17,1,755
 diagnosis,"renal|disorder of kidney|acute renal failure|due to hepatorenal syndrome  [572.4, K76.7]",17,0,2224
-treatment,renal|electrolyte correction|treatment of hyperkalemia|dialysis,16,0,637
 diagnosis,"renal|disorder of acid base|metabolic acidosis|due to bicarbonate loss  [276.2, E87.2]",16,0,2699
 diagnosis,"renal|electrolyte imbalance|hyperchloremia  [276.9, E87.8]",15,2,2084
 diagnosis,"renal|abnormality of urine quantity or quality|anuria  [788.5, R34]",15,0,1281
@@ -110,7 +83,6 @@ diagnosis,"renal|abnormality of urine quantity or quality|pyuria  [791.7, R82.99
 diagnosis,"renal|electrolyte imbalance|hyperkalemia|due to renal disease  [276.7, E87.5]",10,0,2267
 diagnosis,renal|abnormality of urine quantity or quality|oliguria|suspect ATN  [],10,0,6696
 diagnosis,"renal|disorder of kidney|acute renal failure|unstable during hemodialysis  [584.9, N17.9]",10,0,8429
-treatment,renal|dialysis|ultrafiltration (fluid removal only),9,0,4111
 diagnosis,"gastrointestinal|abdominal/ general|peritonitis|dialysis associated  [567.9, K65.0]",9,0,959
 diagnosis,renal|post GU surgery|s/p nephrectomy  [],8,0,6753
 diagnosis,"renal|disorder of acid base|respiratory acidosis|acute  [276.2, E87.2]",8,1,764
@@ -118,7 +90,6 @@ diagnosis,"transplant|s/p kidney transplant|fever - kidney transplant  [996.81, 
 diagnosis,renal|disorder of urinary tract|lower urinary tract calculus  [],8,0,63
 diagnosis,"renal|disorder of kidney|chronic kidney disease|Stage 1 (GFR >90)  [585.1, N18.1]",8,0,2180
 diagnosis,"renal|electrolyte imbalance|hypernatremia|due to volume depletion  [276.0, E87.0]",8,0,846
-pasthistory,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/s/p Heart Transplant/s/p heart transplant,8,4,3647
 diagnosis,"oncology|GU tumors|renal cell CA  [189.0, C64.9]",7,0,926
 diagnosis,"renal|disorder of acid base|respiratory alkalosis  [276.3, E87.3]",7,1,5612
 diagnosis,"renal|fluid imbalance|volume depletion, unspecified  [276.50, E86.9]",7,0,1045
@@ -129,7 +100,6 @@ diagnosis,"renal|disorder of urinary tract / renal system infection|upper urinar
 diagnosis,"renal|electrolyte imbalance|hypomagnesemia|etiology unknown  [275.2, E83.42]",6,0,2182
 diagnosis,"endocrine|fluids and electrolytes|hyperkalemia|due to renal disease  [276.7, E87.5]",6,0,226
 diagnosis,"surgery|renal issues|acute renal failure  [584.9, N17.9]",6,0,2245
-treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis|tunneled catheter,5,0,5441
 diagnosis,"renal|disorder of acid base|mixed acid base disorder  [276.4, E87.4]",5,0,1008
 diagnosis,cardiovascular|post vascular surgery|s/p dialysis access surgery  [],5,0,3982
 diagnosis,"infectious diseases|GI infections|peritonitis|dialysis associated  [567.21, K65.0]",5,0,248
@@ -137,3 +107,33 @@ diagnosis,renal|disorder of acid base|mixed acid base disorder|metabolic acidosi
 diagnosis,"cardiovascular|ventricular disorders|acute pulmonary edema|due to renal dysfunction  [428.1, I50.1]",5,0,1637
 diagnosis,"renal|disorder of kidney|acute renal failure|due to nephrotoxic agents|rhabdomyolysis  [584.9, N17.9]",5,0,665
 diagnosis,cardiovascular|shock / hypotension|hypotension / pressor dependent|r/o adrenal insufficiency  [],5,0,41
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure - hemodialysis,686,62,98
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - baseline creatinine unknown,501,53,61
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 1-2,321,31,151
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure- not currently dialyzed,284,30,93
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Chronic Stone Disease/chronic kidney stones,224,20,85
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 2-3,127,12,80
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/s/p Renal Transplant/s/p renal transplant,113,7,82
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Failure/renal failure - peritoneal dialysis,80,2,62
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Neurogenic Bladder/neurogenic bladder,73,4,66
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Hematology/Oncology (R)/Cancer/Cancer-Primary Site/kidney,66,3,76
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 3-4,57,1,60
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine > 5,29,2,39
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Gastrointestinal (R)/s/p Liver Transplant/s/p liver transplant,23,2,377
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Renal  (R)/Renal Insufficiency/renal insufficiency - creatinine 4-5,21,1,50
+pasthistory,notes/Progress Notes/Past History/Organ Systems/Cardiovascular (R)/s/p Heart Transplant/s/p heart transplant,8,4,3647
+treatment,renal|dialysis|hemodialysis,619,5,3861
+treatment,renal|dialysis|C V V H D,243,0,5120
+treatment,renal|dialysis|hemodialysis|for chronic renal failure,161,2,2409
+treatment,renal|dialysis|insertion of venous catheter for hemodialysis,104,0,2874
+treatment,renal|dialysis|hemodialysis|for acute renal failure,92,0,4783
+treatment,renal|dialysis|C V V H,73,0,5492
+treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis,56,0,5510
+treatment,renal|dialysis|hemodialysis|emergent,55,0,1142
+treatment,renal|dialysis|insertion of venous catheter for hemodialysis|percutaneous catheter,29,0,6598
+treatment,renal|dialysis|peritoneal dialysis,28,0,897
+treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis|percutaneous catheter,28,0,4319
+treatment,renal|dialysis|peritoneal dialysis|for chronic renal failure,18,1,1009
+treatment,renal|electrolyte correction|treatment of hyperkalemia|dialysis,16,0,637
+treatment,renal|dialysis|ultrafiltration (fluid removal only),9,0,4111
+treatment,renal|procedures/radiology|insertion of venous catheter for hemodialysis|tunneled catheter,5,0,5441

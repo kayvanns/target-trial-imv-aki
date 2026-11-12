@@ -29,6 +29,6 @@ respFlowSettings,Pressure Control,131,38,4.5,0.4,2942,9052
 respFlowCareData,FIO2 (%),110,33,3.7,0.4,2942,9052
 respFlowCareData,Resp Rate Total,100,10,3.4,0.1,2942,9052
 respFlowCareData,Mean Airway Pressure,100,10,3.4,0.1,2942,9052
-respFlowCareData,Exhaled Vt,100,9,3.4,0.1,2942,9052
 respFlowCareData,Measured Ve,99,10,3.4,0.1,2942,9052
+respFlowCareData,Exhaled Vt,100,9,3.4,0.1,2942,9052
 respFlowCareData,Plateau Pressure,99,7,3.4,0.1,2942,9052

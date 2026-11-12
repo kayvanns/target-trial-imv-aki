@@ -1,0 +1,3 @@
+group_24h,n_patients,n_any_ward_time,ward_hours_quartiles,n_discharged_alive_before_7d,n_died_before_7d,n_creat_quartiles,longest_gap_hours_quartiles,n_gap_over_48h,n_gap_over_72h,hours_last_creat_to_end_quartiles
+intubated by 24 h,375,204,[  0.   0.   2.  66. 166.],86,67,[ 0  4  7  9 27],[  1.  24.  26.  39. 168.],79,40,[  0.   8.  13.  31. 166.]
+not intubated by 24 h,3598,3203,[  0.  30.  71. 111. 168.],2230,107,[ 0  2  4  6 32],[  2.  25.  33.  60. 168.],1327,733,[  0.   9.  16.  52. 168.]

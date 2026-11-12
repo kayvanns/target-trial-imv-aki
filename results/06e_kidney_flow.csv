@@ -1,7 +1,7 @@
-step,n_patients,n_with_ckd,n_stage1,n_stage2,n_stage3
-1: ESRD / chronic dialysis,844,141,12,24,687
-2: severe CKD (usual creatinine > 4),38,38,0,0,3
-3: CKD without recorded usual creatinine,1038,1038,0,0,26
-4: no creatinine near time zero,801,50,0,0,0
-5: AKI at time zero (stage >= 1),4583,163,1508,1505,1570
-6: passes kidney rules (stage 0),4690,274,0,0,0
+step,n_patients,n_with_ckd,n_stage1,n_stage2,n_stage3,n_kidney_transplant
+1: ESRD / chronic dialysis,844,141,12,24,687,40
+2: severe CKD (usual creatinine > 4),38,38,0,0,3,2
+3: CKD without recorded usual creatinine,1038,1038,0,0,26,23
+4: no creatinine near time zero,801,50,0,0,0,5
+5: AKI at time zero (stage >= 1),4583,163,1508,1505,1570,34
+6: passes kidney rules (stage 0),4690,274,0,0,0,15

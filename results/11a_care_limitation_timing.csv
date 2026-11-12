@@ -1,0 +1,4 @@
+measure,n_patients,p25_min,median_min,p75_min,n_before_icu,n_by_1h,n_by_2h,n_by_4h,n_by_6h,n_by_12h,n_by_24h,n_pool
+a: first care-plan entry (any),4362,9,24,58,301,3347,3942,4243,4311,4345,4359,4370
+b: first care-limitation entry (any value),4264,13,34,83,250,2850,3551,3940,4036,4140,4210,4370
+c: first limitation (exclusion list),829,35,177,1433,27,280,373,446,480,537,625,4370

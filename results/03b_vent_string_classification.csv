@@ -1,0 +1,89 @@
+vent_class,treatmentstring,n_patients
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation,2821
+1_invasive,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|insertion,324
+1_invasive,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube,301
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|assist controlled,261
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|volume controlled,175
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume 6-10 ml/kg,151
+1_invasive,surgery|pulmonary therapies|mechanical ventilation,69
+1_invasive,pulmonary|radiologic procedures / bronchoscopy|reintubation,45
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|pressure support,37
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|pressure controlled,33
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|synchronized intermittent,29
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume < 6 ml/kg,9
+1_invasive,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|repositioning,4
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|permissive hypercapnea,4
+1_invasive,toxicology|drug overdose|mechanical ventilation,4
+1_invasive,surgery|pulmonary therapies|mechanical ventilation|assist controlled,3
+1_invasive,toxicology|drug overdose|endotracheal tube|insertion,3
+1_invasive,toxicology|drug overdose|endotracheal tube,2
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|volume assured,1
+1_invasive,surgery|pulmonary therapies|mechanical ventilation|volume controlled,1
+1_invasive,surgery|pulmonary therapies|mechanical ventilation|pressure controlled,1
+1_invasive,pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume > 10 ml/kg,1
+1_invasive,surgery|pulmonary therapies|mechanical ventilation|tidal volume 6-10 ml/kg,1
+2_supporting,pulmonary|ventilation and oxygenation|ventilator weaning,426
+2_supporting,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube removal,294
+2_supporting,pulmonary|ventilation and oxygenation|ventilator weaning|active,55
+2_supporting,pulmonary|ventilation and oxygenation|ventilator weaning|slow,25
+2_supporting,surgery|pulmonary therapies|ventilator weaning,13
+2_supporting,pulmonary|ventilation and oxygenation|lung recruitment maneuver,11
+2_supporting,pulmonary|ventilation and oxygenation|ventilator weaning|rapid,6
+2_supporting,surgery|pulmonary therapies|ventilator weaning|active,5
+2_supporting,pulmonary|ventilation and oxygenation|prone position,3
+2_supporting,surgery|pulmonary therapies|ventilator weaning|rapid,2
+3_niv,pulmonary|ventilation and oxygenation|non-invasive ventilation,850
+3_niv,pulmonary|ventilation and oxygenation|non-invasive ventilation|face mask,193
+3_niv,pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation,74
+3_niv,pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation|face mask,21
+3_niv,pulmonary|ventilation and oxygenation|non-invasive ventilation|nasal mask,16
+3_niv,surgery|pulmonary therapies|non-invasive ventilation,8
+3_niv,surgery|pulmonary therapies|non-invasive ventilation|face mask,1
+3_niv,pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation|nasal mask,1
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy,467
+4_ambiguous,pulmonary|ventilation and oxygenation|tracheal suctioning,385
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|5-10 cm H2O,156
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|10-15 cm H2O,22
+4_ambiguous,surgery|pulmonary therapies|CPAP/PEEP therapy,13
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|reduce PEEP as tolerated,8
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|titrate PEEP,7
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|reduce CPAP as tolerated,6
+4_ambiguous,pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|> 15 cm H2O,3
+4_ambiguous,surgery|pulmonary therapies|CPAP/PEEP therapy|10-15 cm H2O,1
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy,81
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for ventilatory support,57
+5_trach,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|trach collar,24
+5_trach,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|trach collar,22
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,16
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|conventional,10
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|planned,9
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|consider,2
+5_trach,pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for Head and Neck surgery,2
+5_trach,pulmonary|surgery / incision and drainage of thorax|procedure on upper respiratory tract - not tracheostomy,1
+5_trach,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|trach collar,1
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,1227
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%),718
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%),660
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%),375
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|>90%,157
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|40-50%,128
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,115
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|face mask,105
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|reduce FIO2 as tolerated,104
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|30-40%,94
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|50-60%,83
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|reduce FIO2 as tolerated,81
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|face mask,62
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|non-rebreather mask,56
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|face mask,47
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|80-90%,19
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|70-80%,13
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|60-70%,13
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|non-rebreather mask,6
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|non-rebreather mask,3
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|face tent,1
+6_oxygen,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|face tent,1
+7_other,pulmonary|radiologic procedures / bronchoscopy|pulmonary ventilation perfusion study,33
+7_other,pulmonary|ventilation and oxygenation|physiotherapy of chest,15
+7_other,pulmonary|vascular disorders|pulmonary ventilation perfusion study,3
+7_other,cardiovascular|vascular disorders|pulmonary ventilation perfusion study,3

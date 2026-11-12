@@ -23,8 +23,8 @@ pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|face mask,105
 pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|reduce FIO2 as tolerated,104
 pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|30-40%,94
 pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|50-60%,83
-pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|reduce FIO2 as tolerated,81
 pulmonary|surgery / incision and drainage of thorax|tracheostomy,81
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|reduce FIO2 as tolerated,81
 pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation,74
 surgery|pulmonary therapies|mechanical ventilation,69
 pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|face mask,62
@@ -39,6 +39,51 @@ pulmonary|radiologic procedures / bronchoscopy|pulmonary ventilation perfusion s
 pulmonary|ventilation and oxygenation|mechanical ventilation|synchronized intermittent,29
 pulmonary|ventilation and oxygenation|ventilator weaning|slow,25
 pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|trach collar,24
-pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|10-15 cm H2O,22
 pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|trach collar,22
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|10-15 cm H2O,22
 pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation|face mask,21
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|80-90%,19
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,16
+pulmonary|ventilation and oxygenation|non-invasive ventilation|nasal mask,16
+pulmonary|ventilation and oxygenation|physiotherapy of chest,15
+surgery|pulmonary therapies|CPAP/PEEP therapy,13
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|60-70%,13
+surgery|pulmonary therapies|ventilator weaning,13
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|70-80%,13
+pulmonary|ventilation and oxygenation|lung recruitment maneuver,11
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|conventional,10
+pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume < 6 ml/kg,9
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|planned,9
+surgery|pulmonary therapies|non-invasive ventilation,8
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|reduce PEEP as tolerated,8
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|titrate PEEP,7
+pulmonary|ventilation and oxygenation|ventilator weaning|rapid,6
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|non-rebreather mask,6
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|reduce CPAP as tolerated,6
+surgery|pulmonary therapies|ventilator weaning|active,5
+pulmonary|ventilation and oxygenation|mechanical ventilation|permissive hypercapnea,4
+pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|repositioning,4
+toxicology|drug overdose|mechanical ventilation,4
+pulmonary|ventilation and oxygenation|prone position,3
+pulmonary|ventilation and oxygenation|oxygen therapy (40% to 60%)|non-rebreather mask,3
+pulmonary|ventilation and oxygenation|CPAP/PEEP therapy|> 15 cm H2O,3
+cardiovascular|vascular disorders|pulmonary ventilation perfusion study,3
+surgery|pulmonary therapies|mechanical ventilation|assist controlled,3
+toxicology|drug overdose|endotracheal tube|insertion,3
+pulmonary|vascular disorders|pulmonary ventilation perfusion study,3
+toxicology|drug overdose|endotracheal tube,2
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for Head and Neck surgery,2
+surgery|pulmonary therapies|ventilator weaning|rapid,2
+pulmonary|surgery / incision and drainage of thorax|tracheostomy|consider,2
+surgery|pulmonary therapies|mechanical ventilation|volume controlled,1
+surgery|pulmonary therapies|mechanical ventilation|tidal volume 6-10 ml/kg,1
+surgery|pulmonary therapies|non-invasive ventilation|face mask,1
+surgery|pulmonary therapies|mechanical ventilation|pressure controlled,1
+pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|face tent,1
+pulmonary|ventilation and oxygenation|mechanical ventilation|volume assured,1
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|trach collar,1
+pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|face tent,1
+surgery|pulmonary therapies|CPAP/PEEP therapy|10-15 cm H2O,1
+pulmonary|ventilation and oxygenation|mechanical ventilation|tidal volume > 10 ml/kg,1
+pulmonary|surgery / incision and drainage of thorax|procedure on upper respiratory tract - not tracheostomy,1
+pulmonary|ventilation and oxygenation|mechanical ventilation|non-invasive ventilation|nasal mask,1

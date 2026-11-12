@@ -1,4 +1,4 @@
 imv_status,n_patients,n_any_uo_in_icu,n_any_uo_first_24h,n_stay_ge_24h,hours_with_uo_first_24h_quartiles,n_ge_12_hours_charted,n_1_to_4_hours_charted,n_with_unmeasured_voids,n_uo_values,n_negative,n_gt_2000ml,n_gt_5000ml
-ambiguous,82,70,63,71,"[0,0,3,9,24]",17,25,4,2665,0,11,0
-imv,3273,2577,2409,2820,"[0,1,4,13,24]",830,875,47,155166,0,907,58
-none,8639,6483,6223,6276,"[0,0,2,8,24]",974,2369,172,139583,1,1257,70
+ambiguous,82,70,63,71,[ 0  0  3  9 24],17,25,4,2665,0,11,0
+imv,3273,2577,2409,2820,[ 0  1  3 13 24],830,875,47,155166,0,907,58
+none,8639,6483,6223,6276,[ 0  0  2  7 24],974,2369,172,139583,1,1257,70

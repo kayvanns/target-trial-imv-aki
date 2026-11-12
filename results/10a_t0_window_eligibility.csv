@@ -1,0 +1,3 @@
+version,n_start,n_ventilated_on_arrival,n_not_ventilated,n_no_t0_creatinine,n_stage0,n_stage1,n_stage2,n_stage3,n_eligible_b,n_eligible_b_intubated_by_24h,n_eligible_a,n_eligible_a_intubated_by_24h
+"a: current (labs to +6 h, IMV <= 60 min)",7320,984,6336,515,3086,887,908,940,3973,375,3086,242
+"b: t0 = +2 h (labs to +2 h, IMV <= 120 min)",7320,1138,6182,856,2785,807,851,883,3592,266,2785,176

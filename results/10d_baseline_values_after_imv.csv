@@ -1,0 +1,3 @@
+imv_group,n_patients,n_t0_creat_after_imv,median_min_imv_to_t0_creat,n_measured_baseline_after_imv,n_any_baseline_value_after_imv,n_no_creat_before_imv,n_stage_changes_pre_imv_only,n_stage2plus_pre_imv_only
+a: 61-120 min,83,36,84,9,36,5,9,2
+b: 2-6 h,127,37,55,13,37,5,11,1

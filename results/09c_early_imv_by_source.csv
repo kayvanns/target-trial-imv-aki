@@ -1,0 +1,5 @@
+imv_group,n,n_both,n_treatment_only,n_charting_only,n_settings_before_tx_entry,median_min_between_sources
+a: 0-60 min (excluded),560,481,52,27,429,102
+b: 61-120 min,83,47,32,4,25,97
+c: 2-6 h,127,65,49,13,50,42
+d: 6-24 h,165,104,36,25,92,107

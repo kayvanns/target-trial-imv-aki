@@ -1,0 +1,5 @@
+first_charted,n_patients,n_first_status,n_changed_from_full,n_after_imv,n_before_imv,n_never_imv,n_first_status_before_imv
+a: <= 2 h (by time zero),373,321,52,0,12,361,321
+b: 2-6 h,107,54,53,4,2,101,52
+c: 6-24 h,145,16,129,16,4,125,16
+d: > 24 h,204,7,197,80,3,121,7
